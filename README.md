@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @19A91A04B7
+- 👋 Hi, I’m Sashank
 - 👀 I’m interested in coding and creative thinking
 - 🌱 I’m currently learning bachelor of technology
 - 💞️ I’m looking to collaborate on AWS, Accenture
